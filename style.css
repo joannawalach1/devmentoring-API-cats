@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    display: flex;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px;
+
+}
+
+p {
+
+    margin: 0;
+    background-color: rgb(230, 225, 225);
+    border: 2px solid white;
+    padding: 40px;
+}
+
+img {
+    width:300px;
+
+}
